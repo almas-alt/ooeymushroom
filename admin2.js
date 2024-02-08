@@ -12,6 +12,7 @@ loginForm.addEventListener('submit', function(event) {
   if (username === 'mushrum' || 'mushroom') {
     // Successful login
     alert('Login successful!');
+    window.location.href ='https://almas-alt.github.io/mushrum/'
     // window.location.href ='http://localhost/adminlogin/index.php'
     // Add your admin page logic here or redirect to the admin page
   } else {
