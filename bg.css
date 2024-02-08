@@ -1,0 +1,17 @@
+.head{
+    align-content: center;
+    align-items: center;
+}
+.navbar {
+   
+    height: 100vh;
+}
+
+.background {
+    
+    background-size: cover;
+}
+
+.bg {
+    height: 100vh;
+}
